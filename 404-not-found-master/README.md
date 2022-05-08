@@ -35,24 +35,18 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](https://raw.githubusercontent.com/Shahshan20/Shahshan20.Error-404/main/404-not-found-master/mobile.PNG)
 ![screenshot](https://raw.githubusercontent.com/Shahshan20/Shahshan20.Error-404/main/404-not-found-master/computer.PNG)
+![screenshot](https://raw.githubusercontent.com/Shahshan20/Shahshan20.Error-404/main/404-not-found-master/mobile.PNG)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+he demo of the page is available at the start of the README.md file. It was a great experience, the project helps me to polish my web skills.
 
 ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+<ul>
+   <li>html</li>
+   </ul>
 
 ## Features
 
