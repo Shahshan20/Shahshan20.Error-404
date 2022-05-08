@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [preview](https://shahshan20.github.io/Shahshan20.Error-404//404-not-found-master/index.html})
+- Website [preview](https://shahshan20.github.io/Shahshan20.Error-404//404-not-found-master/index.html)
 - GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
